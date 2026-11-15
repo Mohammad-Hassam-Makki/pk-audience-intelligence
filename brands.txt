@@ -1,0 +1,10 @@
+# One brand name per line. The script searches YouTube for "<name> official" and prints the channel it picked: verify it.
+Sapphire
+Khaadi
+Gul Ahmed
+Alkaram Studio
+Maria B
+Nishat Linen
+Limelight
+Beechtree
+Sana Safinaz
